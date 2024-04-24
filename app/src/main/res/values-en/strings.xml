@@ -1,0 +1,49 @@
+<resources>
+<string name="app_name">MyPrinterUpdated</string>
+<string name="menu_exit" translatable="false">退出</string>
+<string name="fontsize">font size</string>
+<string name="fontsize_12x24">12x24</string>
+<string name="fontsize_9x17">9x17</string>
+<string name="darkness">concentration</string>
+<string name="scaletimes">gain</string>
+<string name="width">Width</string>
+<string name="height">high</string>
+<string name="blackwhitereverse">Black and white reverse display</string>
+<string name="underline">Underline</string>
+<string name="light">slightly lighter</string>
+<string name="darkness_standard">generally</string>
+<string name="darkness_dark">Very strong</string>
+<string name="scaletimes_0">Don\'t zoom in</string>
+<string name="bold">Bold</string>
+<string name="underline1">1 dot underline</string>
+<string name="underline2">2 dots underline</string>
+<string name="textalign">Alignment</string>
+<string name="textalign_left">left aligned</string>
+<string name="textalign_center">center alignment</string>
+<string name="textalign_right">Align right</string>
+<string name="scaletimes_width_0">Width does not enlarge</string>
+<string name="scaletimes_height_0">High without magnification</string>
+<string name="upsidedownprint">Print upside down</string>
+<string name="turnright90">Turn right 90 degrees</string>
+<string name="lineheight">Yukidaka</string>
+<string name="rightspace">right spacing</string>
+<string name="barcode">barcode</string>
+<string name="qrcode">QR code</string>
+<string name="text">text</string>
+<string name="barcodetype">barcode type</string>
+<string name="startorgx">starting point</string>
+<string name="barcodewidth">barcode width</string>
+<string name="barcodeheight">Barcode height</string>
+<string name="barcodefonttype">Barcode text font type</string>
+<string name="barcodefontposition">Barcode text position</string>
+<string name="qrcodestartorgx">QR code starting position</string>
+<string name="qrcodetype">QR code type</string>
+<string name="qrcodewidth">QR code width</string>
+<string name="errorcorrectionlevel">error correction level</string>
+
+<string name="not_connected">You are not connected to a device</string>
+<string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+<string name="title_connecting">connecting...</string>
+<string name="title_connected_to">connected:</string>
+<string name="title_not_connected">not connected</string>
+</resources>
